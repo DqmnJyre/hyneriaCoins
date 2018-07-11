@@ -1,0 +1,7 @@
+author: DqmnJyre
+version: 0.1
+main: fr.thejyre4rf.MainCoinsApi
+name: HyneriaCoins
+
+commands:
+ coins:
